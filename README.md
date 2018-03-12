@@ -26,3 +26,6 @@
  - Manipular resultados JSON
  - Se sentirá mais confortável para trabalhar com o Git
  - Se sentirá mais confortável com o Python e consigo mesmo
+
+
+V1.0.0
